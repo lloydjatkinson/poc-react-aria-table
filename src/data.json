@@ -1,0 +1,1235 @@
+{
+    "keys": ["location", "month", "year", "total"],
+    "values": [
+        {
+            "location": "137 - IPER LIMBIATE",
+            "month": 1,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "137 - IPER LIMBIATE",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "137 - IPER LIMBIATE",
+            "month": 11,
+            "year": 2024,
+            "total": 7
+        },
+        {
+            "location": "137 - IPER LIMBIATE",
+            "month": 7,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 1,
+            "year": 2025,
+            "total": 2
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 14
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 13
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 9,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 7,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 6,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 4,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1502 - GALLARATE CARREFOUR",
+            "month": 3,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 1,
+            "year": 2025,
+            "total": 4
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 11
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 9,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 7,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 4,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1506 - QUARTU CARREFOUR",
+            "month": 3,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 1,
+            "year": 2025,
+            "total": 5
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 12,
+            "year": 2024,
+            "total": 14
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 11,
+            "year": 2024,
+            "total": 14
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 10,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 9,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 8,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 7,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 6,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 5,
+            "year": 2024,
+            "total": 14
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 4,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "1508 - TORVERGATA",
+            "month": 3,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1571 - CAGLIARI SAN SPERATE",
+            "month": 11,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1571 - CAGLIARI SAN SPERATE",
+            "month": 10,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1571 - CAGLIARI SAN SPERATE",
+            "month": 9,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1571 - CAGLIARI SAN SPERATE",
+            "month": 8,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1571 - CAGLIARI SAN SPERATE",
+            "month": 2,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1684 - CALENZANO CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 2,
+            "year": 2025,
+            "total": 2
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 1,
+            "year": 2025,
+            "total": 4
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 12,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 11,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 10,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 9,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 7,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 6,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 5,
+            "year": 2024,
+            "total": 6
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 3,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "1685 - IPER COLLEGNO",
+            "month": 2,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 1,
+            "year": 2025,
+            "total": 3
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 12,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 11,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 10,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 9,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 4,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2118 - CARREFOUR UDINE",
+            "month": 3,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 2,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 1,
+            "year": 2025,
+            "total": 19
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 12,
+            "year": 2024,
+            "total": 49
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 11,
+            "year": 2024,
+            "total": 38
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 10,
+            "year": 2024,
+            "total": 10
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 9,
+            "year": 2024,
+            "total": 6
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 8,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 7,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 6,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 5,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 4,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 3,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 2,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "2119 - IPER PAVIA",
+            "month": 1,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2163 - CARREFOUR BORGOSESIA",
+            "month": 11,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "2163 - CARREFOUR BORGOSESIA",
+            "month": 9,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2163 - CARREFOUR BORGOSESIA",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2163 - CARREFOUR BORGOSESIA",
+            "month": 6,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2163 - CARREFOUR BORGOSESIA",
+            "month": 5,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "2163 - CARREFOUR BORGOSESIA",
+            "month": 4,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2166 - CARREFOUR CHIVASSO",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2166 - CARREFOUR CHIVASSO",
+            "month": 11,
+            "year": 2024,
+            "total": 9
+        },
+        {
+            "location": "2166 - CARREFOUR CHIVASSO",
+            "month": 10,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "2311 - CARREFOUR MONCALIERI",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "2311 - CARREFOUR MONCALIERI",
+            "month": 10,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "2311 - CARREFOUR MONCALIERI",
+            "month": 4,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "3899 - IPER LUINO",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "3899 - IPER LUINO",
+            "month": 10,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "3899 - IPER LUINO",
+            "month": 8,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "3899 - IPER LUINO",
+            "month": 5,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "3899 - IPER LUINO",
+            "month": 3,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "3900 - IPER TAVERNERIO",
+            "month": 1,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "3900 - IPER TAVERNERIO",
+            "month": 12,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "3900 - IPER TAVERNERIO",
+            "month": 11,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "3900 - IPER TAVERNERIO",
+            "month": 9,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "3900 - IPER TAVERNERIO",
+            "month": 1,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "414 - CARREFOUR MASSA",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "414 - CARREFOUR MASSA",
+            "month": 11,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "414 - CARREFOUR MASSA",
+            "month": 10,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "414 - CARREFOUR MASSA",
+            "month": 9,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "414 - CARREFOUR MASSA",
+            "month": 7,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "414 - CARREFOUR MASSA",
+            "month": 5,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "414 - CARREFOUR MASSA",
+            "month": 2,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "415 - PADERNO",
+            "month": 1,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "415 - PADERNO",
+            "month": 12,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "415 - PADERNO",
+            "month": 11,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "415 - PADERNO",
+            "month": 10,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "415 - PADERNO",
+            "month": 9,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 2,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 1,
+            "year": 2025,
+            "total": 6
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 12,
+            "year": 2024,
+            "total": 19
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 11,
+            "year": 2024,
+            "total": 22
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 10,
+            "year": 2024,
+            "total": 19
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 9,
+            "year": 2024,
+            "total": 12
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 8,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 7,
+            "year": 2024,
+            "total": 9
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 6,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 5,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 4,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "416 - CARUGATE",
+            "month": 3,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "417 - ASSAGO",
+            "month": 1,
+            "year": 2025,
+            "total": 3
+        },
+        {
+            "location": "417 - ASSAGO",
+            "month": 11,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "417 - ASSAGO",
+            "month": 10,
+            "year": 2024,
+            "total": 9
+        },
+        {
+            "location": "417 - ASSAGO",
+            "month": 9,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "417 - ASSAGO",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 1,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 12,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 11,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 10,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 9,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 7,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 4,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 2,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "418 - GRUGLIASCO",
+            "month": 1,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "546 - CARREFOUR BRAMANTE",
+            "month": 1,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "546 - CARREFOUR BRAMANTE",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "551 - CARREFOUR LEINI",
+            "month": 1,
+            "year": 2025,
+            "total": 2
+        },
+        {
+            "location": "551 - CARREFOUR LEINI",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "551 - CARREFOUR LEINI",
+            "month": 5,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "551 - CARREFOUR LEINI",
+            "month": 4,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "555 - IPER NICCODEMI",
+            "month": 9,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 1,
+            "year": 2025,
+            "total": 5
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 12,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 11,
+            "year": 2024,
+            "total": 10
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 10,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 7,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 6,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 5,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "571 - GIUSSANO",
+            "month": 2,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 1,
+            "year": 2025,
+            "total": 2
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 9,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 7,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 6,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "729 - CASALECCHIO CARREFOUR",
+            "month": 4,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 1,
+            "year": 2025,
+            "total": 8
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 24
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 9,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 8,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 7,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 6,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 4,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 3,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "752 - BUROLO CARREFOUR",
+            "month": 2,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 2,
+            "year": 2025,
+            "total": 1
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 1,
+            "year": 2025,
+            "total": 3
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 8
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 9,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 8,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 7,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 6,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "755 - MONTECUCCO CARREFOUR",
+            "month": 4,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "756 - NICHELINO CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 6
+        },
+        {
+            "location": "756 - NICHELINO CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 5
+        },
+        {
+            "location": "756 - NICHELINO CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "756 - NICHELINO CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "756 - NICHELINO CARREFOUR",
+            "month": 4,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "757 - PINEROLO CARREFOUR",
+            "month": 1,
+            "year": 2025,
+            "total": 3
+        },
+        {
+            "location": "757 - PINEROLO CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 7
+        },
+        {
+            "location": "757 - PINEROLO CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 11
+        },
+        {
+            "location": "757 - PINEROLO CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "757 - PINEROLO CARREFOUR",
+            "month": 9,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 8,
+            "year": 2024,
+            "total": 3
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 7,
+            "year": 2024,
+            "total": 9
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 6,
+            "year": 2024,
+            "total": 15
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 17
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 4,
+            "year": 2024,
+            "total": 15
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 3,
+            "year": 2024,
+            "total": 18
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 2,
+            "year": 2024,
+            "total": 17
+        },
+        {
+            "location": "758 - PISA CARREFOUR",
+            "month": 1,
+            "year": 2024,
+            "total": 2
+        },
+        {
+            "location": "761 - CARREFOUR VERCELLI",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "764 - AOSTA CARREFOUR",
+            "month": 12,
+            "year": 2024,
+            "total": 1
+        },
+        {
+            "location": "764 - AOSTA CARREFOUR",
+            "month": 11,
+            "year": 2024,
+            "total": 7
+        },
+        {
+            "location": "764 - AOSTA CARREFOUR",
+            "month": 10,
+            "year": 2024,
+            "total": 4
+        },
+        {
+            "location": "764 - AOSTA CARREFOUR",
+            "month": 5,
+            "year": 2024,
+            "total": 1
+        }
+    ]
+}
